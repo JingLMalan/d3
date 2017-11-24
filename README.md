@@ -1,4 +1,4 @@
-# D3: Data-Driven Documents
+# D3: 数据驱动的CANVAS库。 很好用，可以学习！
 
 <a href="https://d3js.org"><img src="https://d3js.org/logo.svg" align="left" hspace="10" vspace="6"></a>
 
